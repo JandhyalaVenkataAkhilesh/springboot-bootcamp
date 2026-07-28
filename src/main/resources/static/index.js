@@ -1,1 +1,1 @@
-alert("welcome to js")
+// alert("welcome to js")
