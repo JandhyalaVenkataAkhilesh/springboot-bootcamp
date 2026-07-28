@@ -25,3 +25,19 @@ body {
     margin: 0px;
     background-color: aquamarine;
 }
+
+.card{
+    border: 2px solid gray;
+    width: 350px;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.card img{
+    width: 100%;
+}
