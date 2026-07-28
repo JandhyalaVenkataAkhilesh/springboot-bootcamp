@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BootcampApplication<bootcamp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.akhilesh.bootcamp.BootcampApplication",
+            "projectName": "bootcamp",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
